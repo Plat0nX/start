@@ -1,0 +1,5 @@
+a = int(input ("Enter your number 1:"))
+print ("Input submitted")
+b = int(input ("Enter your number 2:"))
+print ("Input submitted")
+print (a ** b)
