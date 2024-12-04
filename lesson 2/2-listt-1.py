@@ -1,0 +1,12 @@
+lst = []
+lst.append("молоко")
+lst.append("огурцы")
+lst.append("пиво")
+lst.append("рыбка")
+lst.append("чай")
+lst.append("сахар")
+lst.append("сухарики")
+lst.remove("пиво")
+lst.remove("рыбка")
+print (lst)
+print(len(lst))
